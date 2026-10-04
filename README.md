@@ -1,6 +1,7 @@
 # pong-node
 
 gothic pong for the terminal. blood and bone on black. node only, zero dependencies.
+btw this is one of the first things i made with node, its like 30% skidded (i think? this was from a while ago) so theres that
 
 ```
 †═════════════════════════ p o n g ══════════════════════════†
